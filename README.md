@@ -7,5 +7,6 @@ Repositorio de la clase de Minería de Datos
 
 [Ejercicios de bases de datos](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Ej1_BasesDatos_Equipo_7.pdf)
 
-
 [Ejercicios Python](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Ej_Python_1745134.ipynb)
+
+[Primera Entrega del PIA](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Avance1_PIA_Equipo7.ipynb)
