@@ -19,4 +19,4 @@ Repositorio de la clase de Minería de Datos
 
 [Mini Examen]()
 
-[Mapa Mental II]()
+[Mapa Mental II](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/MapaMental_2_1745134.pdf)
