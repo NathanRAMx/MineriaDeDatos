@@ -16,3 +16,7 @@ Repositorio de la clase de Minería de Datos
 ## Fase II
 
 [Presentación Técnica: Regla de Asociación](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Presentacion_Reglas%20de%20asociaci%C3%B3n_Equipo%207.pdf)
+
+[Mini Examen]()
+
+[Mapa Mental II]()
