@@ -20,3 +20,5 @@ Repositorio de la clase de Minería de Datos
 [Mini Examen](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Calificación_Reglasdeasociacion_Equipo7.pdf)
 
 [Mapa Mental II](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/MapaMental_2_1745134.pdf)
+
+[Práctica de Visualización](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Visualizacion_Equipo7.pdf) [ipynb](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Visualizacion_Equipo7.ipynb)
