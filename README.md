@@ -23,4 +23,4 @@ Repositorio de la clase de Minería de Datos
 
 [Práctica de Visualización](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Visualizacion_Equipo7.pdf) [ipynb](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Visualizacion_Equipo7.ipynb)
 
-[Segunda Entrega del PIA](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/AvancePIA_II_Grupo002_Equipo7.ipynb)
+[Segundo Avance del PIA](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/AvancePIA_II_Grupo002_Equipo7.ipynb)
